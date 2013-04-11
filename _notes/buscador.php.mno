@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_buscador" value="name:codigo_equipo;datatype:string,name:idequipo;datatype:int,name:descripcion_equipo;datatype:string" />
+	<infoitem key="UD_boleta" value="name:equipo_idequipo;datatype:int,name:Modelo_boleta_idModelo_Boleta;datatype:int,name:fechaBoleta;datatype:date,name:totalBoleta;datatype:real,name:nroBoleta;datatype:string" />
+</info>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_datos_boleta" value="name:equipo_idequipo;datatype:int,name:Modelo_boleta_idModelo_Boleta;datatype:int,name:fechaBoleta;datatype:date,name:totalBoleta;datatype:real,name:nroBoleta;datatype:string" />
+	<infoitem key="UD_reparacion_simple" value="name:idboleta;datatype:string,name:idrep_simple;datatype:int,name:costo;datatype:real" />
+	<infoitem key="UD_reparacion_compuesta" value="name:nroboleta;datatype:string,name:idrep_comp;datatype:int,name:costo;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:nroBoleta;datatype:string" />
+	<infoitem key="UD_boleta_equipo" value="name:equipo_idequipo;datatype:int,name:Modelo_boleta_idModelo_Boleta;datatype:int,name:fechaBoleta;datatype:date,name:totalBoleta;datatype:real,name:nroBoleta;datatype:string" />
+	<infoitem key="UD_simples" value="name:idboleta;datatype:string,name:idrep_simple;datatype:int,name:costo;datatype:real,name:nroboleta;datatype:string" />
+	<infoitem key="UD_compuestos" value="name:idboleta;datatype:string,name:idrep_comp;datatype:int,name:costo;datatype:real,name:nroboleta;datatype:string" />
+</info>

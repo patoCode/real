@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_boleta_empresa" value="name:idModelo_Boleta;datatype:int,name:empresa_idempresa;datatype:int,name:tienda_idtienda;datatype:int,name:Modelo_boleta_idModelo_Boleta;datatype:int,name:reparacion_simple_idrep_simple;datatype:int,name:Modelo_boleta_idModelo_Boleta;datatype:int,name:reparacion_compuesta_idrep_comp;datatype:int,name:idempresa;datatype:int,name:nombre_empresa;datatype:string,name:descripcion_empresa;datatype:string" />
+	<infoitem key="UD_servicios_reparaciones" value="name:detalle_comp;datatype:string,name:costo_comp;datatype:string,name:costo;datatype:string,name:detalle;datatype:string,name:idrep_simple;datatype:int" />
+	<infoitem key="UD_rep_compuestas" value="name:detalle_comp;datatype:string,name:costo_comp;datatype:string,name:idrep_comp;datatype:int" />
+	<infoitem key="UD_rep_simple" value="name:detalle;datatype:string,name:costo;datatype:string,name:idrep_simple;datatype:int" />
+	<infoitem key="UD_tienda" value="name:idtienda;datatype:int,name:nombreTienda;datatype:string,name:factura;datatype:string,name:dueno_tienda;datatype:string,name:direccion;datatype:string,name:telefono;datatype:string" />
+</info>

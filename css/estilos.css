@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+h1, h2 {
+		font: bold italic 220px georgia, times new roman, serif;
+		color: #555;
+		letter-spacing: -.09em;
+		-webkit-transition-duration: 1s;
+	}
+
+	h2  {
+		font-size: 21px;
+		font-weight: normal;
+		line-height: 1.6;
+	}
+	.special, .special:hover {
+		background: transparent;
+        border: none;
+	}
+
+	.special:hover p {
+		color: #ffe400;
+	}
+	.head, .head:hover {
+		box-shadow: none;
+		margin-top: 30px;
+		text-align:center;
+	}
+
+	.head span {
+		font-weight: bold;
+		color: #353535;
+	}
+
+	.head span span {
+		font-size: 32px;
+		font-weight: bold !important;
+	}
+	/*.columns{
+		background:#999;}*/

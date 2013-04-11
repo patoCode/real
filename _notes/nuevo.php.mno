@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_boleta" value="name:idModelo_Boleta;datatype:int,name:empresa_idempresa;datatype:int,name:tienda_idtienda;datatype:int" />
+	<infoitem key="UD_equipo" value="name:idequipo;datatype:int,name:codigo_equipo;datatype:string,name:descripcion_equipo;datatype:string" />
+	<infoitem key="UD_compuesto" value="name:idrep_comp;datatype:int,name:costo_comp;datatype:string,name:detalle_comp;datatype:string" />
+	<infoitem key="UD_simple" value="name:idrep_simple;datatype:int,name:costo;datatype:string,name:detalle;datatype:string" />
+</info>
